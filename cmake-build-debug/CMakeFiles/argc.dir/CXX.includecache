@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/huangchenle/Desktop/argc/main.cpp
+iostream
+-
+map
+-
+string
+-
+fstream
+-
+sstream
+-
+stdexcept
+-
+
